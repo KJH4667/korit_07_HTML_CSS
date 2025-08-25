@@ -1,0 +1,8 @@
+div {
+  /* left / right / center / justify */
+  text-align: justify;
+}
+
+div > h1 {
+  text-align: center;
+}
